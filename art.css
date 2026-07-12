@@ -1,0 +1,11 @@
+.culture-btn {
+    color: rgb(43, 56, 55);
+    font-size: large;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.culture-box {
+    text-align: center;
+}
